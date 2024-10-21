@@ -11,12 +11,14 @@ History
  ---- | ------ | ------ | ------- | -----
  2019-04-01 | Mark Filipiak | ARCHER (EPCC), Xeon Ivy Bridge | 3.17.0 | With Python 3.6, GCC 6.
  2019-04-23 | Mark Filipiak | ARCHER (EPCC), Xeon Ivy Bridge | 441bb707d | With Python 3.6, GCC 6, updated to Numpy 1.16.2, Scipy 1.2.1
+ 2024-10-21 | Linnea Gilius | ARCHER2 (EPCC), AMD EPYC 7742 | 3.23.0 | With Python 3.9.13
 
 Build Instructions
 ------------------
 
 * [ASE 3.17.0 ARCHER (EPCC), Xeon Ivy Bridge, Python 3.6, GCC 6 Build Instructions](3.17.0_ARCHER_IvyBridge_python3_gcc6/README.md)
 * [ASE 441bb707d ARCHER (EPCC), Xeon Ivy Bridge, Python 3.6, GCC 6 Build Instructions](441bb707d_ARCHER_IvyBridge_python3_gcc6/README.md)
+* [ASE 3.23.0 ARCHER2 (EPCC), AMD EPYC 7742, Python 3.9.13 Build Instructions](3.23.0_ARCHER2_EPYC_python3/README.md)
 
 Notes
 -----
